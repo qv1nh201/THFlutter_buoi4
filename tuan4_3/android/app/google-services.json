@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "208943284636",
+    "project_id": "tuan-4-shop",
+    "storage_bucket": "tuan-4-shop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208943284636:android:13b9930a0ab174127cc859",
+        "android_client_info": {
+          "package_name": "com.example.school_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzhXn2J_OSsjergqitZiA3xNeSHrPBjog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208943284636:android:3695a26ed70207577cc859",
+        "android_client_info": {
+          "package_name": "com.example.tuan4_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzhXn2J_OSsjergqitZiA3xNeSHrPBjog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208943284636:android:e4d8c15c7e38417e7cc859",
+        "android_client_info": {
+          "package_name": "com.example.tuan4_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzhXn2J_OSsjergqitZiA3xNeSHrPBjog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208943284636:android:11cb1fb08680d5a37cc859",
+        "android_client_info": {
+          "package_name": "com.example.tuan_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzhXn2J_OSsjergqitZiA3xNeSHrPBjog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
